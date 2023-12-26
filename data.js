@@ -368,7 +368,7 @@ const data = {
             "genre": "Crime, Comedy",
             "yearOfRelease": 1994,
             "plot": "Intertwined stories of hitmen, gangsters, their bosses, and a boxer, all in a series of non-chronological events.",
-            "poster": "https://m.media-amazon.com/images/M/V1/bv4/bv407587141._BR1_.jpg",
+            "poster": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15684_v_v13_ak.jpg",
             "producer": {
       
                 "name": "Lawrence Bender",
